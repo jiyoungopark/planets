@@ -1,3 +1,3 @@
 # planets
 ##Purpose
-* Test for ** Software carpentry **
+* Test for **Software carpentry**
